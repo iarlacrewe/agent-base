@@ -71,4 +71,4 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 # Project-Specific
 
-`This section should be filled in when running /init, writing or adapting documentation, or otherwise analyzing this repo's specific structure and architecture`
+`This section should be filled in when running /init, writing or adapting documentation, or when otherwise analyzing this repo's specific architecture, logic, and purpose`
